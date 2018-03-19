@@ -1,6 +1,6 @@
-Graphics Assignment  Code
+Game Code
 ==========================
-This is the code for the game which i have created as part of the assignment .
+This is the code for the game which i have created in opengl.
 
 
 src director consists of the all the files which i have used to create this game .
