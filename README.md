@@ -1,4 +1,4 @@
-Game Code
+LegendofZelda
 ==========================
 This is the code for the game which i have created in opengl.
 
